@@ -1,0 +1,12 @@
+{
+    "sidebar": {
+        "home": "Pagina Principal",
+        "characters": "Personagens",
+        "database": {
+            "items": "Items",
+            "weapons": "Armas",
+            "artifacts": "Artefatos"
+        },
+        "settings": "Definicoes"
+    }
+}

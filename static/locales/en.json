@@ -1,0 +1,12 @@
+{
+    "sidebar": {
+        "home": "Home",
+        "characters": "Characters",
+        "database": {
+            "items": "Items",
+            "weapons": "Weapons",
+            "artifacts": "Artifacts"
+        },
+        "settings": "Settings"
+    }
+}
